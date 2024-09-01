@@ -1,0 +1,6 @@
+{
+    "files.exclude": {
+        "\"liveServer.settings.CustomBrowser\": \"chrome\"": true
+    },
+    "liveServer.settings.port": 5501
+}
